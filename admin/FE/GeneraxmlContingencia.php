@@ -12,7 +12,7 @@
 	
 
 	/**
-	* 
+	* Agregado para capturar la exception por tiempo de espera
 	*/
 	class TimeoutException extends RuntimeException {}
 	class Generaxml extends Invoice
